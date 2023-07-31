@@ -16,7 +16,7 @@ from AdminCommand import (SelectActiveTasks, SelectNewTasks,
                           Change,ChangeInfoAboutAccept)
 
 """
-    Номер группы, куда переходят значения: -1001978039387
+    Номер группы, куда переходят значения: 
 """
 bot.set_my_commands([
     types.BotCommand("/start", "Работа с ботом"),
